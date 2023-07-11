@@ -1,2 +1,2 @@
 # Spotify-clone
-BEATS...spotify app clone with top 10 favourite songs of mine
+BEATS...spotify  app web clone with top 10 favourite songs of mine
